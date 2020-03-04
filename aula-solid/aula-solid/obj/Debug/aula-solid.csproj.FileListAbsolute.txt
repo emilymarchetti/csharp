@@ -1,0 +1,6 @@
+C:\Users\facec.lab03\Desktop\Git\aula-solid-04-03-2020\aula-solid\aula-solid\bin\Debug\aula-solid.exe.config
+C:\Users\facec.lab03\Desktop\Git\aula-solid-04-03-2020\aula-solid\aula-solid\bin\Debug\aula-solid.exe
+C:\Users\facec.lab03\Desktop\Git\aula-solid-04-03-2020\aula-solid\aula-solid\bin\Debug\aula-solid.pdb
+C:\Users\facec.lab03\Desktop\Git\aula-solid-04-03-2020\aula-solid\aula-solid\obj\Debug\aula-solid.csprojAssemblyReference.cache
+C:\Users\facec.lab03\Desktop\Git\aula-solid-04-03-2020\aula-solid\aula-solid\obj\Debug\aula-solid.exe
+C:\Users\facec.lab03\Desktop\Git\aula-solid-04-03-2020\aula-solid\aula-solid\obj\Debug\aula-solid.pdb
