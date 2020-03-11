@@ -1,0 +1,6 @@
+C:\Users\facec.lab02\Desktop\aula-teste-unitario-10-03-2020\aula-testes-unitarios-10-03-2020\bin\Debug\aula-testes-unitarios-10-03-2020.exe.config
+C:\Users\facec.lab02\Desktop\aula-teste-unitario-10-03-2020\aula-testes-unitarios-10-03-2020\bin\Debug\aula-testes-unitarios-10-03-2020.exe
+C:\Users\facec.lab02\Desktop\aula-teste-unitario-10-03-2020\aula-testes-unitarios-10-03-2020\bin\Debug\aula-testes-unitarios-10-03-2020.pdb
+C:\Users\facec.lab02\Desktop\aula-teste-unitario-10-03-2020\aula-testes-unitarios-10-03-2020\obj\Debug\aula-testes-unitarios-10-03-2020.csprojAssemblyReference.cache
+C:\Users\facec.lab02\Desktop\aula-teste-unitario-10-03-2020\aula-testes-unitarios-10-03-2020\obj\Debug\aula-testes-unitarios-10-03-2020.exe
+C:\Users\facec.lab02\Desktop\aula-teste-unitario-10-03-2020\aula-testes-unitarios-10-03-2020\obj\Debug\aula-testes-unitarios-10-03-2020.pdb
